@@ -3,8 +3,8 @@ id: mobileiron-login
 info:
   name: MobileIron Login
   author: dhiyaneshDK,dwisiswant0
-  Severity: info
-  tags: panel
+  severity: info
+  tags: panel,mobileiron
 
 requests:
   - method: GET
